@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=CONNECTIONS+TRACED&color=00ff41&style=for-the-badge&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=rzaliyev03&label=CONNECTIONS+TRACED&color=00ff41&style=for-the-badge&labelColor=000000)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000&logo=statuspage)
 ![Access](https://img.shields.io/badge/PERMISSION-ROOT-00ff41?style=for-the-badge&labelColor=000000&logo=hackthebox)
 
@@ -87,28 +87,16 @@ drwxr-xr-x  zaproxy        # dynamic app security testing
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rzaliyev03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzaliyev03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rzaliyev03&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-<sub>⚠️ Bu animasiya GitHub Actions ilə avtomatik yaranır — aşağıdakı quraşdırma addımına bax</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rzaliyev03&theme=react-dark&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="90%"/>
 
 </div>
 
@@ -118,7 +106,7 @@ drwxr-xr-x  zaproxy        # dynamic app security testing
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&margin-w=8&margin-h=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rzaliyev03&theme=matrix&no-frame=true&margin-w=8&margin-h=8&row=1&column=7" />
 
 </div>
 
