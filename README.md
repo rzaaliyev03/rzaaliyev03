@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,,html,css,tailwind,sass&theme=dark)
+![](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,html,css,tailwind,sass&theme=dark)
 <br/>
 ![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,linux,bash,nginx,figma,postman&theme=dark)
 
