@@ -34,7 +34,7 @@
 
 <br/>
 
-<h3 align="center">💻 Full Stack Arsenal</h3>
+<h3 align="center">💻 Full Stack</h3>
 
 <div align="center">
 
