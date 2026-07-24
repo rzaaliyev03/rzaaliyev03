@@ -38,9 +38,9 @@
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,java,cpp,php,html,css,tailwind,sass&theme=dark)
+![](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,,html,css,tailwind,sass&theme=dark)
 <br/>
-![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,kubernetes,git,github,linux,bash,nginx,aws,figma,postman&theme=dark)
+![](https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,linux,bash,nginx,figma,postman&theme=dark)
 
 </div>
 
